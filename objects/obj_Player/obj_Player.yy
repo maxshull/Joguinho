@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_Player",
   "spriteId": {
-    "name": "spr_PlayerPlaceholder",
-    "path": "sprites/spr_PlayerPlaceholder/spr_PlayerPlaceholder.yy",
+    "name": "spr_PlayerWalkingPlaceholder",
+    "path": "sprites/spr_PlayerWalkingPlaceholder/spr_PlayerWalkingPlaceholder.yy",
   },
   "solid": false,
   "visible": true,
